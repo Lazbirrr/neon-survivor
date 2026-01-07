@@ -1,0 +1,17 @@
+# Dossiers de build
+love.js-build/
+web-build/
+web-build-flat/
+node_modules/
+
+# Fichiers système
+.DS_Store
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Artefacts générés (recréés par deploy.sh)
+NEON_SURVIVOR.love
+NEON_SURVIVOR_web.zip
